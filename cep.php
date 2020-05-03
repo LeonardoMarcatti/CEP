@@ -39,7 +39,7 @@
             });
         });
 
-        $('#limpar').click(e=>$('#resp').html(''));
+        $('#limpar').click(e=>$('#resp').html('')); 
         </script>
     </body>
 </html>
